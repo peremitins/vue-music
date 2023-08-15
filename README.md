@@ -1,10 +1,10 @@
 # vue-music
-##### https://allfreelance.github.io/vue-music/
+##### https://peremitins.github.io/vue-music/
 
 > Music player App<br>
 > Used HTML, CSS, JS, Vue, Git.
 
-[![](https://github.com/allfreelance/vue-music/blob/main/screen.jpg)](https://allfreelance.github.io/vue-music/)
+[![](https://github.com/peremitins/vue-music/blob/main/screen.jpg)](https://peremitins.github.io/vue-music/)
 
 ## Project setup
 npm install
